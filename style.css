@@ -1,0 +1,149 @@
+
+
+
+body {
+  background-color: black;
+  font-family: sans-serif ;
+  padding: 50px;
+  margin: 0px;
+}
+
+.container {
+  background-color: white;
+  width: 450px;
+  height: 600px;
+}
+
+.perro {
+padding-top: 40px;
+}
+
+
+
+.bajaunespacio {
+margin-bottom: 10px;
+
+}  
+
+
+.corazon {
+  
+ padding-left: 20px;
+ justify-content: space-between;
+}
+
+
+.comentarios {
+  padding-left: 10px;
+  justify-content: space-between;
+}
+
+.enviar {
+  padding-left: 10px;
+  justify-content: space-between;
+}
+
+.salvar {
+  margin-left: 275px;
+}
+
+.likes {
+  padding-top: 45px;
+  padding-left: 20px;
+   
+}
+
+.final {
+ padding-left: 1px;
+ padding-right: 1px;
+padding-bottom: 210px;
+text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Block 
+.encabezado {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  }
+  
+  .encabezado-left {
+  margin: 0;
+  display: flex;
+  }
+  
+  .encabezado-left i {
+  font-size: 5px
+  }
+  
+  .encabezado-right {
+  padding-top: 8px;
+  }
+  
+  .encabezado-right i {
+  font: size 2px;
+  }  
+
+
+
+
+
+
+
+
+
+  <!-- Block parent element
+main {
+  <!-- Block parent element
+  border: 1px solid red; -->
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+-->
+
+<!-- Block 
+.kmage-heart {
+
+
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+
+
+.icons {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+i {
+  font-size: 25px;
+  align-self: center;
+  padding-right: 10px;
+}
+
+.left {
+  display: flex;
+  justify-content: left;
+}
+
+-->
